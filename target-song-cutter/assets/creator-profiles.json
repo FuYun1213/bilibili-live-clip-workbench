@@ -1,0 +1,776 @@
+{
+  "schema_version": 1,
+  "profiles": {
+    "komichi": {
+      "display_name": "四时小路Komichi",
+      "title_tag": "四时小路Komichi",
+      "room_id": "1700301235",
+      "role_color": "#FF2231",
+      "subtitle_fill_color": "#FF4D67",
+      "subtitle_outline_color": "#111318",
+      "subtitle_outline_width": 5.0,
+      "dialogue_font": "Microsoft YaHei",
+      "radio_subtitle_size": 80,
+      "song_font": "AR WeiBeiGBStd BD",
+      "hotwords": [
+        "四时小路",
+        "小路",
+        "Komichi"
+      ],
+      "upload": {
+        "tid": null,
+        "copyright": 1,
+        "no_reprint": false,
+        "tags": [
+          "四时小路Komichi",
+          "直播切片"
+        ],
+        "description": "四时小路Komichi主页：https://space.bilibili.com/1512246445\n\n四时小路Komichi直播间：https://live.bilibili.com/1700301235"
+      },
+      "dialogue_font_size": 85
+    },
+    "viridis": {
+      "display_name": "小松绿Viridis",
+      "title_tag": "小松绿Viridis",
+      "room_id": "1727071052",
+      "role_color": "#8EB056",
+      "subtitle_fill_color": "#4DD66E",
+      "subtitle_outline_color": "#111318",
+      "subtitle_outline_width": 5.0,
+      "dialogue_font": "Microsoft YaHei",
+      "radio_subtitle_size": 80,
+      "song_font": "AR WeiBeiGBStd BD",
+      "hotwords": [
+        "小松绿",
+        "Viridis",
+        "昆虫",
+        "体操",
+        "蟑螂",
+        "蛤蟆",
+        "植物",
+        "枼绿素",
+        "孙女",
+        "小孙女"
+      ],
+      "upload": {
+        "tid": null,
+        "copyright": 1,
+        "no_reprint": false,
+        "tags": [
+          "VirtuaReal",
+          "小松绿Viridis",
+          "虚拟主播",
+          "直播切片",
+          "VUP"
+        ],
+        "description": "你也来看我们小松绿吗！\n\n个人空间：https://space.bilibili.com/1891335475\n\n直播间：https://live.bilibili.com/1727071052",
+        "collections": {
+          "narrative": {
+            "title": "小松绿切片"
+          },
+          "song": {
+            "title": "小松绿歌"
+          }
+        },
+        "enabled": true
+      },
+      "song_cover": {
+        "prefix": "【松绿歌】",
+        "asset": "covers/viridis-song-base.png",
+        "text_y": 0.78
+      },
+      "stream_hotwords": [
+        "孙女",
+        "小啾",
+        "NFY",
+        "管人",
+        "管人痴",
+        "钢镚",
+        "性交"
+      ],
+      "dialogue_font_size": 85,
+      "cover_character_image": "",
+      "profile_status": "configured"
+    },
+    "yuchu": {
+      "display_name": "羽啾chu2u",
+      "title_tag": "羽啾chu2u",
+      "room_id": "1727074031",
+      "role_color": "#FFD2A6",
+      "subtitle_fill_color": "#FFAA3D",
+      "subtitle_outline_color": "#111318",
+      "subtitle_outline_width": 5.0,
+      "dialogue_font": "Microsoft YaHei",
+      "radio_subtitle_size": 80,
+      "song_font": "AR WeiBeiGBStd BD",
+      "hotwords": [
+        "羽啾",
+        "chu2u",
+        "米线",
+        "宇宙猫",
+        "芙娅之魂",
+        "回火测试",
+        "终焉地"
+      ],
+      "campaigns": [
+        {
+          "key": "fuya_soul_reforging_2026",
+          "name": "芙娅之魂回火测试",
+          "selection_prompt": "references/campaign-prompts/fuya-soul-reforging-game.md",
+          "start_date": "2026-08-28",
+          "end_date": "2026-09-10",
+          "title_keywords": [
+            "芙娅之魂",
+            "回火测试",
+            "终焉地",
+            "玩游戏"
+          ],
+          "tags": [
+            "芙娅之魂"
+          ]
+        }
+      ],
+      "campaign_only": false,
+      "upload": {
+        "tid": null,
+        "copyright": 1,
+        "no_reprint": false,
+        "tags": [
+          "VirtuaReal",
+          "羽啾chu2u",
+          "虚拟主播",
+          "直播切片",
+          "VUP"
+        ],
+        "description": "羽啾chu2u主页：https://space.bilibili.com/2138961136\n\n羽啾chu2u直播间：https://live.bilibili.com/1727074031",
+        "collections": {
+          "narrative": {
+            "title": "羽啾切片"
+          },
+          "song": {
+            "title": "羽啾歌"
+          }
+        },
+        "enabled": true
+      },
+      "song_cover": {
+        "prefix": "【羽啾歌】",
+        "asset": "covers/yuchu-base.png",
+        "text_y": 0.78
+      },
+      "dialogue_font_size": 85,
+      "stream_hotwords": [
+        "月经",
+        "魔法期",
+        "中药",
+        "阴道镜"
+      ],
+      "cover_character_image": "",
+      "profile_status": "configured"
+    },
+    "harei": {
+      "display_name": "花礼Harei",
+      "title_tag": "花礼Harei",
+      "room_id": "1820703922",
+      "role_color": "#5CBFE8",
+      "subtitle_fill_color": "#1F6FFF",
+      "subtitle_outline_color": "#10243B",
+      "subtitle_outline_width": 5.0,
+      "dialogue_font": "Microsoft YaHei",
+      "dialogue_font_size": 85,
+      "radio_subtitle_size": 80,
+      "song_font": "AR WeiBeiGBStd BD",
+      "hotwords": [
+        "花礼Harei",
+        "花礼",
+        "Harei",
+        "芙娅之魂",
+        "回火测试",
+        "终焉地"
+      ],
+      "stream_hotwords": [],
+      "campaign_only": false,
+      "campaigns": [
+        {
+          "key": "fuya_soul_reforging_2026",
+          "name": "芙娅之魂回火测试",
+          "selection_prompt": "references/campaign-prompts/fuya-soul-reforging-game.md",
+          "start_date": "2026-08-28",
+          "end_date": "2026-09-10",
+          "title_keywords": [
+            "芙娅之魂",
+            "回火测试",
+            "终焉地",
+            "玩游戏"
+          ],
+          "tags": [
+            "芙娅之魂"
+          ]
+        }
+      ],
+      "upload": {
+        "enabled": true,
+        "tid": null,
+        "copyright": 1,
+        "no_reprint": false,
+        "tags": [
+          "VirtuaReal",
+          "花礼Harei",
+          "虚拟主播",
+          "直播切片",
+          "VUP"
+        ],
+        "description": "花礼Harei主页：https://space.bilibili.com/1048135385\n\n花礼Harei直播间：https://live.bilibili.com/1820703922",
+        "collections": {
+          "narrative": {
+            "title": "花礼切片"
+          }
+        }
+      },
+      "cover_character_image": "",
+      "profile_status": "configured"
+    },
+    "hazel": {
+      "display_name": "灰泽满Hazel",
+      "title_tag": "灰泽满Hazel",
+      "room_id": "1713546334",
+      "role_color": "#707780",
+      "subtitle_fill_color": "#A0A0A0",
+      "subtitle_outline_color": "#111318",
+      "subtitle_outline_width": 5.0,
+      "dialogue_font": "Microsoft YaHei",
+      "dialogue_font_size": 85,
+      "radio_subtitle_size": 80,
+      "song_font": "AR WeiBeiGBStd BD",
+      "hotwords": [
+        "灰泽满Hazel",
+        "灰泽满",
+        "Hazel",
+        "芙娅之魂",
+        "回火测试",
+        "终焉地"
+      ],
+      "stream_hotwords": [],
+      "campaign_only": false,
+      "campaigns": [
+        {
+          "key": "fuya_soul_reforging_2026",
+          "name": "芙娅之魂回火测试",
+          "selection_prompt": "references/campaign-prompts/fuya-soul-reforging-game.md",
+          "start_date": "2026-08-28",
+          "end_date": "2026-09-10",
+          "title_keywords": [
+            "芙娅之魂",
+            "回火测试",
+            "终焉地",
+            "玩游戏"
+          ],
+          "tags": [
+            "芙娅之魂"
+          ]
+        }
+      ],
+      "upload": {
+        "enabled": true,
+        "tid": null,
+        "copyright": 1,
+        "no_reprint": false,
+        "tags": [
+          "VirtuaReal",
+          "灰泽满Hazel",
+          "虚拟主播",
+          "直播切片",
+          "VUP"
+        ],
+        "description": "灰泽满Hazel主页：https://space.bilibili.com/1298779265\n\n灰泽满Hazel直播间：https://live.bilibili.com/1713546334",
+        "collections": {
+          "narrative": {
+            "title": "灰泽满切片"
+          }
+        }
+      },
+      "cover_character_image": "",
+      "profile_status": "configured"
+    },
+    "youyi": {
+      "display_name": "又一充电中",
+      "title_tag": "又一充电中",
+      "room_id": "23771092",
+      "role_color": "#F3C742",
+      "subtitle_fill_color": "#FFF1A8",
+      "subtitle_outline_color": "#5A2D24",
+      "subtitle_outline_width": 5.0,
+      "dialogue_font": "Microsoft YaHei",
+      "dialogue_font_size": 85,
+      "radio_subtitle_size": 80,
+      "song_font": "AR WeiBeiGBStd BD",
+      "hotwords": [
+        "又一充电中",
+        "又一",
+        "芙娅之魂",
+        "回火测试",
+        "终焉地"
+      ],
+      "stream_hotwords": [],
+      "campaign_only": false,
+      "campaigns": [
+        {
+          "key": "fuya_soul_reforging_2026",
+          "name": "芙娅之魂回火测试",
+          "selection_prompt": "references/campaign-prompts/fuya-soul-reforging-game.md",
+          "start_date": "2026-08-28",
+          "end_date": "2026-09-10",
+          "title_keywords": [
+            "芙娅之魂",
+            "回火测试",
+            "终焉地",
+            "玩游戏"
+          ],
+          "tags": [
+            "芙娅之魂"
+          ]
+        }
+      ],
+      "upload": {
+        "enabled": true,
+        "tid": null,
+        "copyright": 1,
+        "no_reprint": false,
+        "tags": [
+          "又一充电中",
+          "虚拟主播",
+          "直播切片",
+          "VUP"
+        ],
+        "description": "又一充电中主页：https://space.bilibili.com/1217754423\n\n又一充电中直播间：https://live.bilibili.com/23771092",
+        "collections": {
+          "narrative": {
+            "title": "又一切片"
+          }
+        }
+      },
+      "cover_character_image": "",
+      "profile_status": "configured"
+    },
+    "sumire": {
+      "display_name": "枝堇Sumire",
+      "title_tag": "枝堇Sumire",
+      "room_id": "1727076670",
+      "role_color": "#BFA6B4",
+      "subtitle_fill_color": "#C65BE3",
+      "subtitle_outline_color": "#111318",
+      "subtitle_outline_width": 5.0,
+      "dialogue_font": "Microsoft YaHei",
+      "radio_subtitle_size": 80,
+      "song_font": "AR WeiBeiGBStd BD",
+      "hotwords": [
+        "枝堇",
+        "Sumire",
+        "斯蒂芬金",
+        "妈妈势",
+        "小粉螈",
+        "得意",
+        "堇今色",
+        "今色",
+        "足控",
+        "张无忌",
+        "年上",
+        "不行",
+        "林徽因",
+        "徐志摩",
+        "妹妹",
+        "红SC"
+      ],
+      "upload": {
+        "tid": null,
+        "copyright": 1,
+        "no_reprint": false,
+        "tags": [
+          "VirtuaReal",
+          "枝堇Sumire",
+          "虚拟主播",
+          "直播切片",
+          "VUP"
+        ],
+        "description": "哇 你来看我们枝堇小姐了吗？\n\n这是她的空间：https://space.bilibili.com/1150976664\n\n这是她的直播间：https://live.bilibili.com/1727076670",
+        "collections": {
+          "narrative": {
+            "title": "枝堇切片"
+          },
+          "song": {
+            "title": "枝堇歌"
+          }
+        },
+        "enabled": true
+      },
+      "song_cover": {
+        "prefix": "【枝堇歌】",
+        "asset": "covers/sumire-song-base.png",
+        "text_y": 0.78
+      },
+      "fan_badges": [
+        "小粉螈"
+      ],
+      "stream_hotwords": [
+        "得意"
+      ],
+      "dialogue_font_size": 85,
+      "cover_character_image": "",
+      "profile_status": "configured"
+    },
+    "kioi": {
+      "display_name": "柚雨Kioi",
+      "title_tag": "柚雨Kioi",
+      "room_id": "1791260756",
+      "role_color": "#BFDFF4",
+      "subtitle_fill_color": "#37C8F3",
+      "subtitle_outline_color": "#111318",
+      "subtitle_outline_width": 5.0,
+      "dialogue_font": "Microsoft YaHei",
+      "radio_subtitle_size": 80,
+      "song_font": "AR WeiBeiGBStd BD",
+      "hotwords": [
+        "柚雨",
+        "Kioi",
+        "你干嘛",
+        "讨厌你",
+        "美国",
+        "管理员"
+      ],
+      "selection_notes": [
+        "柚雨专属补充：额外扫描短促拟声、突然撒娇、憋笑或惊叫、与模型或小物件互动，以及无意间形成的可爱小动静。此类候选可以不依赖长叙事反转，但必须保留陌生观众能理解的最短前因、动作和反应收尾；只有粉丝滤镜、单独口癖或无上下文的一声叫不入选。"
+      ],
+      "upload": {
+        "tid": null,
+        "copyright": 1,
+        "no_reprint": false,
+        "tags": [
+          "VirtuaReal",
+          "柚雨Kioi",
+          "虚拟主播",
+          "直播切片",
+          "VUP"
+        ],
+        "description": "上面这个是我们最可爱的美国小女孩柚雨Kioi！请关注她！\n\n个人空间：https://space.bilibili.com/1096820127\n\n直播间：https://live.bilibili.com/1791260756",
+        "collections": {
+          "narrative": {
+            "title": "柚雨切片"
+          },
+          "song": {
+            "title": "柚雨歌"
+          }
+        },
+        "enabled": true
+      },
+      "song_cover": {
+        "prefix": "【柚雨歌】",
+        "asset": "covers/kioi-song-base.png",
+        "text_y": 0.78
+      },
+      "stream_hotwords": [],
+      "dialogue_font_size": 85,
+      "cover_character_image": "",
+      "profile_status": "configured"
+    },
+    "nagisa": {
+      "display_name": "米汀Nagisa",
+      "title_tag": "米汀Nagisa",
+      "room_id": "",
+      "role_color": "#D8648F",
+      "subtitle_fill_color": "#FF5AA5",
+      "subtitle_outline_color": "#111318",
+      "subtitle_outline_width": 5.0,
+      "dialogue_font": "Microsoft YaHei",
+      "dialogue_font_size": 85,
+      "radio_subtitle_size": 80,
+      "song_font": "AR WeiBeiGBStd BD",
+      "hotwords": [
+        "米汀Nagisa",
+        "米汀",
+        "Nagisa"
+      ],
+      "stream_hotwords": [],
+      "profile_status": "configured",
+      "guest_only": true,
+      "cover_character_image": "",
+      "upload": {
+        "enabled": false,
+        "tid": null,
+        "copyright": 1,
+        "no_reprint": false,
+        "tags": [
+          "米汀Nagisa",
+          "虚拟主播",
+          "直播切片"
+        ],
+        "description": ""
+      }
+    },
+    "kloa": {
+      "display_name": "克罗雅Kloa",
+      "title_tag": "克罗雅Kloa",
+      "room_id": "",
+      "role_color": "#8E6BC7",
+      "subtitle_fill_color": "#5F7CFF",
+      "subtitle_outline_color": "#111318",
+      "subtitle_outline_width": 5.0,
+      "dialogue_font": "Microsoft YaHei",
+      "dialogue_font_size": 85,
+      "radio_subtitle_size": 80,
+      "song_font": "AR WeiBeiGBStd BD",
+      "hotwords": [
+        "克罗雅Kloa",
+        "克罗雅",
+        "克罗亚",
+        "Kloa"
+      ],
+      "stream_hotwords": [],
+      "profile_status": "configured",
+      "guest_only": true,
+      "cover_character_image": "",
+      "upload": {
+        "enabled": false,
+        "tid": null,
+        "copyright": 1,
+        "no_reprint": false,
+        "tags": [
+          "克罗雅Kloa",
+          "虚拟主播",
+          "直播切片"
+        ],
+        "description": ""
+      }
+    },
+    "girimi": {
+      "display_name": "雾深Girimi",
+      "title_tag": "雾深Girimi",
+      "room_id": "",
+      "role_color": "#4F5F9A",
+      "subtitle_fill_color": "#28C7AD",
+      "subtitle_outline_color": "#111318",
+      "subtitle_outline_width": 5.0,
+      "dialogue_font": "Microsoft YaHei",
+      "dialogue_font_size": 85,
+      "radio_subtitle_size": 80,
+      "song_font": "AR WeiBeiGBStd BD",
+      "hotwords": [
+        "雾深Girimi",
+        "雾深",
+        "Girimi",
+        "Gimiri"
+      ],
+      "stream_hotwords": [],
+      "profile_status": "configured",
+      "guest_only": true,
+      "cover_character_image": "",
+      "upload": {
+        "enabled": false,
+        "tid": null,
+        "copyright": 1,
+        "no_reprint": false,
+        "tags": [
+          "雾深Girimi",
+          "虚拟主播",
+          "直播切片"
+        ],
+        "description": ""
+      }
+    },
+    "luka": {
+      "display_name": "鹿卡上学不迟到",
+      "title_tag": "鹿卡上学不迟到",
+      "room_id": "",
+      "role_color": "#457B1B",
+      "subtitle_fill_color": "#70E000",
+      "subtitle_outline_color": "#111318",
+      "subtitle_outline_width": 5.0,
+      "dialogue_font": "Microsoft YaHei",
+      "dialogue_font_size": 85,
+      "radio_subtitle_size": 80,
+      "song_font": "AR WeiBeiGBStd BD",
+      "hotwords": [
+        "鹿卡上学不迟到",
+        "鹿卡"
+      ],
+      "stream_hotwords": [],
+      "profile_status": "configured",
+      "guest_only": true,
+      "cover_character_image": "",
+      "upload": {
+        "enabled": false,
+        "tid": null,
+        "copyright": 1,
+        "no_reprint": false,
+        "tags": [],
+        "description": ""
+      }
+    },
+    "generic_guest": {
+      "display_name": "通用嘉宾",
+      "title_tag": "通用嘉宾",
+      "room_id": "",
+      "role_color": "#9A6A43",
+      "subtitle_fill_color": "#D4A373",
+      "subtitle_outline_color": "#111318",
+      "subtitle_outline_width": 5.0,
+      "dialogue_font": "Microsoft YaHei",
+      "dialogue_font_size": 85,
+      "radio_subtitle_size": 80,
+      "song_font": "AR WeiBeiGBStd BD",
+      "hotwords": [
+        "通用嘉宾"
+      ],
+      "stream_hotwords": [],
+      "profile_status": "configured",
+      "guest_only": true,
+      "cover_character_image": "",
+      "upload": {
+        "enabled": false,
+        "tid": null,
+        "copyright": 1,
+        "no_reprint": false,
+        "tags": [],
+        "description": ""
+      }
+    },
+    "chilly": {
+      "display_name": "昼夜_Chilly",
+      "title_tag": "昼夜_Chilly",
+      "room_id": "1774689965",
+      "role_color": "#CDAAD2",
+      "subtitle_fill_color": "#C0C6D4",
+      "subtitle_outline_color": "#111318",
+      "subtitle_outline_width": 5.0,
+      "dialogue_font": "Microsoft YaHei",
+      "radio_subtitle_size": 80,
+      "song_font": "AR WeiBeiGBStd BD",
+      "hotwords": [
+        "昼夜",
+        "昼夜_Chilly",
+        "Chilly",
+        "烤鸭",
+        "昼你鸭"
+      ],
+      "upload": {
+        "tid": null,
+        "copyright": 1,
+        "no_reprint": false,
+        "tags": [
+          "昼夜_Chilly",
+          "虚拟主播",
+          "虚拟Singer",
+          "直播切片",
+          "VUP",
+          "GS"
+        ],
+        "description": "昼夜_Chilly主页：https://space.bilibili.com/3706962250303984\n\n昼夜_Chilly直播间：https://live.bilibili.com/1774689965",
+        "collections": {
+          "narrative": {
+            "title": "昼夜切片"
+          },
+          "song": {
+            "title": "昼夜歌"
+          }
+        },
+        "enabled": true
+      },
+      "song_cover": {
+        "prefix": "【昼夜歌】",
+        "asset": "covers/chilly-song-base.png",
+        "text_y": 0.78
+      },
+      "fan_badges": [
+        "昼你鸭"
+      ],
+      "dialogue_font_size": 85,
+      "profile_status": "configured",
+      "cover_character_image": ""
+    },
+    "aixiaowu": {
+      "display_name": "哎小呜",
+      "title_tag": "哎小呜",
+      "room_id": "",
+      "role_color": "#F9A699",
+      "subtitle_fill_color": "#FFE34D",
+      "subtitle_outline_color": "#111318",
+      "subtitle_outline_width": 5.0,
+      "dialogue_font": "Microsoft YaHei",
+      "dialogue_font_size": 85,
+      "radio_subtitle_size": 80,
+      "song_font": "AR WeiBeiGBStd BD",
+      "hotwords": [
+        "哎小呜"
+      ],
+      "stream_hotwords": [],
+      "profile_status": "archived",
+      "auto_created": false,
+      "upload": {
+        "enabled": false,
+        "tid": null,
+        "copyright": 1,
+        "no_reprint": false,
+        "tags": [
+          "哎小呜",
+          "虚拟主播",
+          "直播切片"
+        ],
+        "description": ""
+      },
+      "archived": true,
+      "archived_at": "2026-08-21T00:53:23-07:00"
+    },
+    "awu": {
+      "display_name": "哎小呜",
+      "title_tag": "哎小呜",
+      "room_id": "27627985",
+      "role_color": "#F9A699",
+      "subtitle_fill_color": "#FFE34D",
+      "subtitle_outline_color": "#111318",
+      "subtitle_outline_width": 5.0,
+      "dialogue_font": "Microsoft YaHei",
+      "dialogue_font_size": 85,
+      "radio_subtitle_size": 80,
+      "song_font": "AR WeiBeiGBStd BD",
+      "hotwords": [
+        "哎小呜",
+        "点播",
+        "钢镚",
+        "拼sc",
+        "点歌价目表"
+      ],
+      "stream_hotwords": [],
+      "profile_status": "configured",
+      "auto_created": false,
+      "created_at": "2026-08-21T00:01:11-07:00",
+      "upload": {
+        "enabled": true,
+        "tid": null,
+        "copyright": 1,
+        "no_reprint": false,
+        "tags": [
+          "哎小呜",
+          "虚拟主播",
+          "直播切片",
+          "VirtuaReal"
+        ],
+        "description": "这是我们VR自研崽崽，你也来炒作了吗，关注崽崽谢谢喵 个人空间：https://space.bilibili.com/1567394869直播间：https://live.bilibili.com/27627985",
+        "collections": {
+          "narrative": {
+            "title": "哎小呜切片"
+          },
+          "song": {
+            "title": ""
+          }
+        }
+      },
+      "cover_character_image": "",
+      "selection_notes": [
+        "【观赛筛选】哎小呜录播中的王者荣耀内容可能是观看 KPL 比赛。必须区分赛事解说、选手语音、纪录片原声与哎小呜自己的发言；不要写成哎小呜亲自操作游戏，也不要把解说台词署名给她。",
+        "【用户排除】不选以 KPL 比赛进程、游戏高光、团战、英雄操作或 BP/阵容复盘为主体的切片，不把这些比赛游戏内容夹入普通聊天切片。只保留哎小呜自己能够独立成立的聊天、故事与互动；仅提到狼队或 KPL 的生活聊天不因此自动淘汰。",
+        "【混音审核】聊天与赛事解说交错时，按原录播证据整句剪掉赛事部分；无法在不破坏主播完整发言的前提下分离时，留在审核池并写明问题，不能靠改字幕、切电台画面或给解说改名掩盖。",
+        "【专名校对】按王者荣耀/KPL 语境校对 KPL、BP、MVP、TTG、AG、TES.A、滔搏、狼队、SYG，以及白起、赵云、少司缘、苏烈、不知火舞、钟馗、小乔。帆帆、萝卜、小胖等选手 ID 须核对当场字幕和官方资料；滔博/涛博、中规、邵思源、范范等只列为待核查近音，绝不跨语境直接替换。",
+        "【赛季与源文】战队和选手归属按录播当日名单，不用历史印象强改。例如 2026-09-05 官方赛报的小胖属于广州 TTG，不能因旧资料改成狼队。所有接受的文字修正先回写原录播完整转写，再映射到切片；这些专名用于转写后校对，不输入 ASR 作为提示词。"
+      ]
+    }
+  }
+}

@@ -1,0 +1,17 @@
+﻿[Script Info]
+Title: Chilly narrative subtitle template v2
+ScriptType: v4.00+
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Regular,Smiley Sans Oblique,85,&H00D4C6C0,&H00D4C6C0,&H00181311,&H50000000,-1,0,0,0,100,100,0,0,1,5,2.5,2,110,110,72,1
+Style: Chilly,Smiley Sans Oblique,85,&H00D4C6C0,&H00D4C6C0,&H00181311,&H50000000,-1,0,0,0,100,100,0,0,1,5,2.5,2,110,110,72,1
+Style: ChillyOverlap,Smiley Sans Oblique,85,&H00D4C6C0,&H00D4C6C0,&H00181311,&H50000000,-1,0,0,0,100,100,0,0,1,5,2.5,2,110,110,164,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text

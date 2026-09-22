@@ -1,0 +1,892 @@
+{
+  "schema_version": 1,
+  "updated_at": "2026-08-19",
+  "scope": "VirtuaReal直播音频的FunASR热词与字幕纠错。成员表以当前VirtuaReal Project为主，另补充直播中常被提及的VirtuaReal Star、VirtuaReal Link及前成员名称。",
+  "organization": {
+    "canonical": "VirtuaReal",
+    "aliases": [
+      "VR",
+      "维阿",
+      "VirtuaReal Project",
+      "VirtuaReal Star",
+      "VirtuaReal Link",
+      "NIJISANJI",
+      "彩虹社",
+      "上海萌电文化科技有限公司",
+      "萌电"
+    ]
+  },
+  "members": [
+    {
+      "generation": 1,
+      "canonical": "艾因Eine",
+      "name_zh": "艾因",
+      "romanized": "Eine",
+      "aliases": []
+    },
+    {
+      "generation": 2,
+      "canonical": "七海Nana7mi",
+      "name_zh": "七海",
+      "romanized": "Nana7mi",
+      "aliases": [
+        "Nanami"
+      ],
+      "fan_terms": [
+        {
+          "term": "脆鲨",
+          "kind": "fan_name",
+          "confidence": "high",
+          "source_ids": [
+            "nijisanji_wiki_nanami"
+          ]
+        }
+      ]
+    },
+    {
+      "generation": 2,
+      "canonical": "光一Kouichi",
+      "name_zh": "光一",
+      "romanized": "Kouichi",
+      "aliases": [
+        "中单光一"
+      ],
+      "fan_terms": [
+        {
+          "term": "中单",
+          "kind": "fan_name",
+          "confidence": "high",
+          "source_ids": [
+            "nijisanji_wiki_kouichi"
+          ]
+        }
+      ]
+    },
+    {
+      "generation": 4,
+      "canonical": "惑姬Waku",
+      "name_zh": "惑姬",
+      "romanized": "Waku",
+      "aliases": [
+        "惑姫"
+      ]
+    },
+    {
+      "generation": 6,
+      "canonical": "阿萨Aza",
+      "name_zh": "阿萨",
+      "romanized": "Aza",
+      "aliases": []
+    },
+    {
+      "generation": 6,
+      "canonical": "八木迪之Yagi",
+      "name_zh": "八木迪之",
+      "romanized": "Yagi",
+      "aliases": []
+    },
+    {
+      "generation": 6,
+      "canonical": "度人Tabibito",
+      "name_zh": "度人",
+      "romanized": "Tabibito",
+      "aliases": []
+    },
+    {
+      "generation": 7,
+      "canonical": "沙夜Saya",
+      "name_zh": "沙夜",
+      "romanized": "Saya",
+      "aliases": []
+    },
+    {
+      "generation": 7,
+      "canonical": "雪绘Yukie",
+      "name_zh": "雪绘",
+      "romanized": "Yukie",
+      "aliases": [
+        "桃濑雪绘"
+      ]
+    },
+    {
+      "generation": 9,
+      "canonical": "千春Chiharu",
+      "name_zh": "千春",
+      "romanized": "Chiharu",
+      "aliases": [
+        "若月千春"
+      ]
+    },
+    {
+      "generation": 10,
+      "canonical": "勺Shaun",
+      "name_zh": "勺",
+      "romanized": "Shaun",
+      "aliases": [],
+      "fan_terms": [
+        {
+          "term": "小白薯",
+          "kind": "fan_name",
+          "confidence": "high",
+          "source_ids": [
+            "nijisanji_wiki_shaun"
+          ]
+        }
+      ]
+    },
+    {
+      "generation": 10,
+      "canonical": "悠亚Yua",
+      "name_zh": "悠亚",
+      "romanized": "Yua",
+      "aliases": [],
+      "announced_end": "2026-08-31"
+    },
+    {
+      "generation": 11,
+      "canonical": "千幽Chiyuu",
+      "name_zh": "千幽",
+      "romanized": "Chiyuu",
+      "aliases": []
+    },
+    {
+      "generation": 12,
+      "canonical": "勾檀Mayumi",
+      "name_zh": "勾檀",
+      "romanized": "Mayumi",
+      "aliases": []
+    },
+    {
+      "generation": 13,
+      "canonical": "桃星Tocci",
+      "name_zh": "桃星",
+      "romanized": "Tocci",
+      "aliases": [],
+      "fan_terms": [
+        {
+          "term": "好星人",
+          "kind": "fan_name",
+          "confidence": "high",
+          "source_ids": [
+            "nijisanji_wiki_tocci"
+          ]
+        }
+      ]
+    },
+    {
+      "generation": 13,
+      "canonical": "吉吉Kiti",
+      "name_zh": "吉吉",
+      "romanized": "Kiti",
+      "aliases": []
+    },
+    {
+      "generation": 13,
+      "canonical": "轴伊Joi",
+      "name_zh": "轴伊",
+      "romanized": "Joi",
+      "aliases": []
+    },
+    {
+      "generation": 14,
+      "canonical": "瑞娅Rhea",
+      "name_zh": "瑞娅",
+      "romanized": "Rhea",
+      "aliases": [],
+      "fan_terms": [
+        {
+          "term": "瑞世糖",
+          "kind": "fan_name",
+          "confidence": "high",
+          "source_ids": [
+            "nijisanji_wiki_rhea"
+          ]
+        },
+        {
+          "term": "姨杖队",
+          "kind": "fan_tag",
+          "confidence": "high",
+          "source_ids": [
+            "nijisanji_wiki_rhea"
+          ]
+        }
+      ]
+    },
+    {
+      "generation": 16,
+      "canonical": "希维Sybil",
+      "name_zh": "希维",
+      "romanized": "Sybil",
+      "aliases": []
+    },
+    {
+      "generation": 16,
+      "canonical": "雾深Girimi",
+      "name_zh": "雾深",
+      "romanized": "Girimi",
+      "aliases": []
+    },
+    {
+      "generation": 17,
+      "canonical": "莱恩Leo",
+      "name_zh": "莱恩",
+      "romanized": "Leo",
+      "aliases": []
+    },
+    {
+      "generation": 17,
+      "canonical": "岁己Sui",
+      "name_zh": "岁己",
+      "romanized": "Sui",
+      "aliases": []
+    },
+    {
+      "generation": 18,
+      "canonical": "栞栞Shiori",
+      "name_zh": "栞栞",
+      "romanized": "Shiori",
+      "aliases": []
+    },
+    {
+      "generation": 19,
+      "canonical": "哎小呜Awu",
+      "name_zh": "哎小呜",
+      "romanized": "Awu",
+      "aliases": []
+    },
+    {
+      "generation": 19,
+      "canonical": "未知夜Michiya",
+      "name_zh": "未知夜",
+      "romanized": "Michiya",
+      "aliases": []
+    },
+    {
+      "generation": 19,
+      "canonical": "雨纪Ameki",
+      "name_zh": "雨纪",
+      "romanized": "Ameki",
+      "aliases": [
+        "雨宝",
+        "小雨",
+        "小蝴蝶"
+      ],
+      "fan_terms": [
+        {
+          "term": "雨花糖",
+          "kind": "fan_name",
+          "confidence": "high",
+          "source_ids": [
+            "moegirl_ameki"
+          ]
+        },
+        {
+          "term": "罐罐",
+          "kind": "fan_nickname",
+          "confidence": "high",
+          "source_ids": [
+            "moegirl_ameki"
+          ]
+        }
+      ]
+    },
+    {
+      "generation": 20,
+      "canonical": "入福步Ayumi",
+      "name_zh": "入福步",
+      "romanized": "Ayumi",
+      "aliases": []
+    },
+    {
+      "generation": 20,
+      "canonical": "弥月Mizuki",
+      "name_zh": "弥月",
+      "romanized": "Mizuki",
+      "aliases": [
+        "兔川弥月"
+      ]
+    },
+    {
+      "generation": 20,
+      "canonical": "蜜言Mikoto",
+      "name_zh": "蜜言",
+      "romanized": "Mikoto",
+      "aliases": [],
+      "announced_end": "2026-08-30"
+    },
+    {
+      "generation": 20,
+      "canonical": "漆羽Urushiha",
+      "name_zh": "漆羽",
+      "romanized": "Urushiha",
+      "aliases": []
+    },
+    {
+      "generation": 21,
+      "canonical": "米汀Nagisa",
+      "name_zh": "米汀",
+      "romanized": "Nagisa",
+      "aliases": []
+    },
+    {
+      "generation": 21,
+      "canonical": "帕可Pako",
+      "name_zh": "帕可",
+      "romanized": "Pako",
+      "aliases": [
+        "小帕"
+      ],
+      "fan_terms": [
+        {
+          "term": "帕托石",
+          "kind": "fan_name",
+          "confidence": "medium",
+          "source_ids": [
+            "vrp_wiki_pako"
+          ]
+        }
+      ]
+    },
+    {
+      "generation": 21,
+      "canonical": "向阳Hihi",
+      "name_zh": "向阳",
+      "romanized": "Hihi",
+      "aliases": []
+    },
+    {
+      "generation": 21,
+      "canonical": "雪烛Yukisyo",
+      "name_zh": "雪烛",
+      "romanized": "Yukisyo",
+      "aliases": []
+    },
+    {
+      "generation": 23,
+      "canonical": "花礼Harei",
+      "name_zh": "花礼",
+      "romanized": "Harei",
+      "aliases": [
+        "礼礼"
+      ],
+      "fan_terms": [
+        {
+          "term": "小礼猫",
+          "kind": "fan_name",
+          "confidence": "high",
+          "source_ids": [
+            "nijisanji_wiki_harei"
+          ]
+        }
+      ]
+    },
+    {
+      "generation": 23,
+      "canonical": "点酥Susu",
+      "name_zh": "点酥",
+      "romanized": "Susu",
+      "aliases": []
+    },
+    {
+      "generation": 23,
+      "canonical": "桃代Momoka",
+      "name_zh": "桃代",
+      "romanized": "Momoka",
+      "aliases": [
+        "水鸟川桃代"
+      ],
+      "fan_terms": [
+        {
+          "term": "摩卡糖",
+          "kind": "fan_name",
+          "confidence": "high",
+          "source_ids": [
+            "nijisanji_wiki_momoka"
+          ]
+        }
+      ]
+    },
+    {
+      "generation": 24,
+      "canonical": "泽音Melody",
+      "name_zh": "泽音",
+      "romanized": "Melody",
+      "aliases": [
+        "音音"
+      ],
+      "fan_terms": [
+        {
+          "term": "音悦生",
+          "kind": "fan_name",
+          "confidence": "high",
+          "source_ids": [
+            "bilibili_melody_profile"
+          ]
+        },
+        {
+          "term": "泽音的猫砂盆",
+          "kind": "fan_tag",
+          "confidence": "high",
+          "source_ids": [
+            "bilibili_melody_profile"
+          ]
+        }
+      ]
+    },
+    {
+      "generation": 25,
+      "canonical": "妮慕Nimue",
+      "name_zh": "妮慕",
+      "romanized": "Nimue",
+      "aliases": []
+    },
+    {
+      "generation": 25,
+      "canonical": "沐毛Meme",
+      "name_zh": "沐毛",
+      "romanized": "Meme",
+      "aliases": [
+        "毛毛"
+      ],
+      "fan_terms": [
+        {
+          "term": "沐卫星",
+          "kind": "fan_name",
+          "confidence": "high",
+          "source_ids": [
+            "nijisanji_wiki_meme"
+          ]
+        }
+      ]
+    },
+    {
+      "generation": 25,
+      "canonical": "命依Mei",
+      "name_zh": "命依",
+      "romanized": "Mei",
+      "aliases": [],
+      "fan_terms": [
+        {
+          "term": "契命者",
+          "kind": "fan_badge",
+          "confidence": "high",
+          "source_ids": [
+            "bilibili_mei_profile"
+          ]
+        },
+        {
+          "term": "命依的终焉之栞",
+          "kind": "fan_tag",
+          "confidence": "high",
+          "source_ids": [
+            "bilibili_mei_profile"
+          ]
+        }
+      ]
+    },
+    {
+      "generation": 25,
+      "canonical": "三理Mit3uri",
+      "name_zh": "三理",
+      "romanized": "Mit3uri",
+      "aliases": [
+        "三理理",
+        "Mitsuri"
+      ],
+      "fan_terms": [
+        {
+          "term": "纯良花",
+          "kind": "fan_badge",
+          "confidence": "medium",
+          "source_ids": [
+            "bilibili_mit3uri_clip"
+          ]
+        }
+      ]
+    },
+    {
+      "generation": 26,
+      "canonical": "柚雨Kioi",
+      "name_zh": "柚雨",
+      "romanized": "Kioi",
+      "aliases": [
+        "鱿鱼",
+        "鱿鱼Kioi"
+      ],
+      "fan_terms": [
+        {
+          "term": "雨烛灵",
+          "kind": "fan_name",
+          "confidence": "high",
+          "source_ids": [
+            "bilibili_kioi_archive",
+            "nijisanji_wiki_kioi"
+          ]
+        },
+        {
+          "term": "柚是下雨天",
+          "kind": "fan_tag",
+          "confidence": "high",
+          "source_ids": [
+            "nijisanji_wiki_kioi"
+          ]
+        }
+      ]
+    },
+    {
+      "generation": 26,
+      "canonical": "能能Nori",
+      "name_zh": "能能",
+      "romanized": "Nori",
+      "aliases": [
+        "能能动力"
+      ],
+      "fan_terms": [
+        {
+          "term": "能亮球",
+          "kind": "fan_name",
+          "confidence": "high",
+          "source_ids": [
+            "bilibili_nori_poll",
+            "nijisanji_wiki_nori"
+          ]
+        },
+        {
+          "term": "能量者联盟",
+          "kind": "fan_tag",
+          "confidence": "high",
+          "source_ids": [
+            "bilibili_nori_poll",
+            "nijisanji_wiki_nori"
+          ]
+        }
+      ]
+    },
+    {
+      "generation": 26,
+      "canonical": "犬绒Mofu",
+      "name_zh": "犬绒",
+      "romanized": "Mofu",
+      "aliases": [
+        "绒绒",
+        "小绒"
+      ],
+      "fan_terms": [
+        {
+          "term": "绒绒民",
+          "kind": "fan_name",
+          "confidence": "high",
+          "source_ids": [
+            "bilibili_mofu_post",
+            "nijisanji_wiki_mofu"
+          ]
+        },
+        {
+          "term": "犬绒的暖暖小窝",
+          "kind": "fan_tag",
+          "confidence": "high",
+          "source_ids": [
+            "nijisanji_wiki_mofu"
+          ]
+        }
+      ]
+    },
+    {
+      "generation": 27,
+      "canonical": "灰泽满Hazel",
+      "name_zh": "灰泽满",
+      "romanized": "Hazel",
+      "aliases": [
+        "小满",
+        "满神",
+        "满区"
+      ],
+      "fan_terms": [
+        {
+          "term": "绿冻",
+          "kind": "fan_name",
+          "confidence": "high",
+          "source_ids": [
+            "nijisanji_wiki_hazel",
+            "bilibili_hazel_clips"
+          ]
+        },
+        {
+          "term": "灰泽满的记录册",
+          "kind": "fan_tag",
+          "confidence": "high",
+          "source_ids": [
+            "nijisanji_wiki_hazel"
+          ]
+        }
+      ]
+    },
+    {
+      "generation": 27,
+      "canonical": "十六萤Izayoi",
+      "name_zh": "十六萤",
+      "romanized": "Izayoi",
+      "aliases": [
+        "十六萤161",
+        "161"
+      ]
+    },
+    {
+      "generation": 27,
+      "canonical": "莉蔻Liko",
+      "name_zh": "莉蔻",
+      "romanized": "Liko",
+      "aliases": []
+    },
+    {
+      "generation": 27,
+      "canonical": "克罗雅Kloa",
+      "name_zh": "克罗雅",
+      "romanized": "Kloa",
+      "aliases": []
+    }
+  ],
+  "additional_names": [
+    {
+      "canonical": "菜菜子Nanako",
+      "aliases": [
+        "菜菜子"
+      ],
+      "group": "VirtuaReal Star"
+    },
+    {
+      "canonical": "祖娅纳惜Aria",
+      "aliases": [
+        "祖娅纳惜"
+      ],
+      "group": "VirtuaReal Star"
+    },
+    {
+      "canonical": "阿梓Azusa",
+      "aliases": [
+        "阿梓",
+        "阿梓从小就很可爱"
+      ],
+      "group": "VirtuaReal Link"
+    },
+    {
+      "canonical": "小可Kero",
+      "aliases": [
+        "小可",
+        "小可学妹"
+      ],
+      "group": "VirtuaReal Link"
+    },
+    {
+      "canonical": "诺莺Nox",
+      "aliases": [
+        "诺莺"
+      ],
+      "group": "VirtuaReal Link"
+    },
+    {
+      "canonical": "沐霂Queenie",
+      "aliases": [
+        "沐霂"
+      ],
+      "group": "VirtuaReal Link"
+    },
+    {
+      "canonical": "恬豆Bekki",
+      "aliases": [
+        "恬豆"
+      ],
+      "group": "VirtuaReal Link"
+    },
+    {
+      "canonical": "梨安Lian",
+      "aliases": [
+        "梨安"
+      ],
+      "group": "VirtuaReal Link"
+    },
+    {
+      "canonical": "又一Yoyi",
+      "aliases": [
+        "又一"
+      ],
+      "group": "VirtuaReal Link"
+    },
+    {
+      "canonical": "弥希Miki",
+      "aliases": [
+        "弥希"
+      ],
+      "group": "former VirtuaReal Project"
+    }
+  ],
+  "general_hotwords": [
+    "雨烛灵",
+    "绿冻",
+    "绒绒民",
+    "能亮球",
+    "SC",
+    "舰长",
+    "提督",
+    "总督",
+    "上舰",
+    "粉丝牌",
+    "弹幕",
+    "管理员",
+    "同接",
+    "超管",
+    "staff",
+    "歌回",
+    "杂谈",
+    "联动",
+    "切片",
+    "咪咪",
+    "好女孩",
+    "讨厌你",
+    "干嘛",
+    "唱歌",
+    "妈妈",
+    "美国",
+    "香菜",
+    "爷爷",
+    "287",
+    "新妹妹",
+    "美团",
+    "我去你大爷的",
+    "小啾",
+    "NFY",
+    "管人",
+    "管人痴",
+    "钢镚"
+  ],
+  "asr_replacements": {
+    "羽竹林": "雨烛灵",
+    "羽豬林": "雨烛灵",
+    "羽猪林": "雨烛灵",
+    "玉珠琳": "雨烛灵",
+    "宇宙琳": "雨烛灵",
+    "宇卓靈": "雨烛灵",
+    "宇卓琳": "雨烛灵",
+    "宇宙丁": "雨烛灵",
+    "于竹林": "雨烛灵",
+    "一株零": "雨烛灵",
+    "火烛零": "雨烛灵",
+    "雨竹灵": "雨烛灵",
+    "雨竹林": "雨烛灵",
+    "全融魔夫": "犬绒Mofu",
+    "全融蘑菇": "犬绒Mofu",
+    "全兒茂夫": "犬绒Mofu",
+    "全儿茂夫": "犬绒Mofu",
+    "全莫斯": "犬绒Mofu",
+    "色榮蘑菇": "犬绒Mofu",
+    "莫夫": "犬绒Mofu",
+    "犬绒幕府": "犬绒Mofu",
+    "犬儿莫夫": "犬绒Mofu",
+    "犬如莫夫": "犬绒Mofu",
+    "犬绒莫夫": "犬绒Mofu",
+    "犬绒模夫": "犬绒Mofu",
+    "犬容不服": "犬绒Mofu",
+    "能能动力": "能能Nori",
+    "诺莉": "能能Nori",
+    "诺里": "能能Nori",
+    "灰泽曼": "灰泽满",
+    "灰泽漫": "灰泽满",
+    "十六莹": "十六萤",
+    "十六营": "十六萤",
+    "莉寇": "莉蔻",
+    "克罗亚": "克罗雅",
+    "Gimiri": "Girimi",
+    "雾深Gimiri": "雾深Girimi",
+    "小秋": "小啾",
+    "NF外": "NFY",
+    "nf外": "NFY",
+    "寡人": "管人",
+    "钢棒": "钢镚",
+    "钢崩": "钢镚",
+    "钢蹦": "钢镚",
+    "钢镑": "钢镚",
+    "刚宝": "钢镚",
+    "刚宝宝": "钢镚"
+  },
+  "sources": {
+    "official_site": {
+      "url": "https://vrp.live/",
+      "note": "VirtuaReal官方网站"
+    },
+    "bilibili_26th_announcement": {
+      "url": "https://www.bilibili.com/video/BV1RM8BzxEWD/",
+      "note": "VirtuaReal官方二十六期生公布"
+    },
+    "wikipedia_roster": {
+      "url": "https://zh.wikipedia.org/wiki/VirtuaReal",
+      "note": "成员名单和活动状态的辅助索引，非官方"
+    },
+    "nijisanji_wiki_roster": {
+      "url": "https://wikiwiki.jp/nijisanji/VirtuaReal",
+      "note": "当前成员与个人页的辅助索引，非官方"
+    },
+    "nijisanji_wiki_nanami": {
+      "url": "https://wikiwiki.jp/nijisanji/%E4%B8%83%E6%B5%B7"
+    },
+    "nijisanji_wiki_kouichi": {
+      "url": "https://wikiwiki.jp/nijisanji/%E5%85%89%E4%B8%80"
+    },
+    "nijisanji_wiki_shaun": {
+      "url": "https://wikiwiki.jp/nijisanji/%E5%8B%BA"
+    },
+    "nijisanji_wiki_tocci": {
+      "url": "https://wikiwiki.jp/nijisanji/%E6%A1%83%E6%98%9F"
+    },
+    "nijisanji_wiki_rhea": {
+      "url": "https://wikiwiki.jp/nijisanji/%E3%83%AA%E3%82%A2"
+    },
+    "nijisanji_wiki_harei": {
+      "url": "https://wikiwiki.jp/nijisanji/%E8%8A%B1%E7%A4%BC"
+    },
+    "nijisanji_wiki_momoka": {
+      "url": "https://wikiwiki.jp/nijisanji/%E6%A1%83%E4%BB%A3"
+    },
+    "nijisanji_wiki_meme": {
+      "url": "https://wikiwiki.jp/nijisanji/%E6%B2%90%E6%AF%9B"
+    },
+    "nijisanji_wiki_kioi": {
+      "url": "https://wikiwiki.jp/nijisanji/%E6%9F%9A%E9%9B%A8"
+    },
+    "nijisanji_wiki_nori": {
+      "url": "https://wikiwiki.jp/nijisanji/%E8%83%BD%E8%83%BD"
+    },
+    "nijisanji_wiki_mofu": {
+      "url": "https://wikiwiki.jp/nijisanji/%E3%83%A2%E3%83%95"
+    },
+    "nijisanji_wiki_hazel": {
+      "url": "https://wikiwiki.jp/nijisanji/%E3%81%9F%E3%82%81%E3%81%97%E3%81%8C%E3%81%8D/Hazel"
+    },
+    "bilibili_kioi_archive": {
+      "url": "https://www.bilibili.com/video/BV1Nmw8zSEHE/"
+    },
+    "bilibili_nori_poll": {
+      "url": "https://www.bilibili.com/opus/1096013437099573285"
+    },
+    "bilibili_mofu_post": {
+      "url": "https://www.bilibili.com/opus/1105849848514478081"
+    },
+    "bilibili_hazel_clips": {
+      "url": "https://www.bilibili.com/video/BV1DoRQBqEkK/"
+    },
+    "bilibili_melody_profile": {
+      "url": "https://www.bilibili.com/opus/1100197778887278594"
+    },
+    "bilibili_mei_profile": {
+      "url": "https://www.bilibili.com/opus/1040495676169912323"
+    },
+    "bilibili_mit3uri_clip": {
+      "url": "https://www.bilibili.com/video/BV1CKtpzREwH/"
+    },
+    "moegirl_ameki": {
+      "url": "https://moegirl.icu/%E9%9B%A8%E7%BA%AA"
+    },
+    "vrp_wiki_pako": {
+      "url": "https://vrp.wiki/index.php?title=%E5%B8%95%E5%8F%AF"
+    }
+  }
+}

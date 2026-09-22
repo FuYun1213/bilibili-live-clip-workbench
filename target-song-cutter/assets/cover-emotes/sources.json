@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "checked_at": "2026-08-26",
+  "policy": {
+    "exclusive_by_creator": true,
+    "missing_catalog_behavior": "do_not_overlay_another_creator",
+    "sources": "public Bilibili search results only"
+  },
+  "creators": {
+    "viridis": {
+      "display_name": "小松绿Viridis",
+      "status": "no_public_indexed_pack_found",
+      "search_url": "https://search.bilibili.com/all?keyword=%E5%B0%8F%E6%9D%BE%E7%BB%BFViridis%20%E8%A1%A8%E6%83%85%E5%8C%85"
+    },
+    "yuchu": {
+      "display_name": "羽啾chu2u",
+      "status": "no_public_indexed_pack_found",
+      "search_url": "https://search.bilibili.com/all?keyword=%E7%BE%BD%E5%95%BEchu2u%20%E8%A1%A8%E6%83%85%E5%8C%85"
+    },
+    "sumire": {
+      "display_name": "枝堇Sumire",
+      "status": "no_public_indexed_pack_found",
+      "search_url": "https://search.bilibili.com/all?keyword=%E6%9E%9D%E5%A0%87Sumire%20%E8%A1%A8%E6%83%85%E5%8C%85"
+    },
+    "kioi": {
+      "display_name": "柚雨Kioi",
+      "status": "public_indexed_source_found_assets_not_imported",
+      "source_url": "https://www.bilibili.com/opus/1131031546689486848",
+      "source_title": "柚雨Kioi UP主大表情 充电表情（2025）",
+      "reported_source": "柚雨Kioi直播间",
+      "indexed_labels": [
+        "柚雨挥手",
+        "柚雨鼠了",
+        "柚雨流汗",
+        "柚雨比心",
+        "柚雨叉腰",
+        "柚雨点赞",
+        "柚雨应援",
+        "柚雨生气",
+        "柚雨YES",
+        "柚雨NO",
+        "柚雨晕了"
+      ],
+      "note": "公开索引能核实来源和名称，但原图页面受验证码保护；未把搜索缩略图冒充原图。"
+    },
+    "chilly": {
+      "display_name": "昼夜_Chilly",
+      "status": "no_public_indexed_pack_found",
+      "search_url": "https://search.bilibili.com/all?keyword=%E6%98%BC%E5%A4%9C_Chilly%20%E8%A1%A8%E6%83%85%E5%8C%85"
+    },
+    "awu": {
+      "display_name": "哎小呜",
+      "status": "no_public_indexed_pack_found",
+      "search_url": "https://search.bilibili.com/all?keyword=%E5%93%8E%E5%B0%8F%E5%91%9C%20%E8%A1%A8%E6%83%85%E5%8C%85"
+    }
+  }
+}

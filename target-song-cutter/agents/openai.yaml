@@ -1,0 +1,4 @@
+interface:
+  display_name: "音频优先切片与切歌"
+  short_description: "结合弹幕和评分产出强叙事切片、歌切、本地封面与可选投稿"
+  default_prompt: "Use $target-song-cutter to automate new-recording discovery and deterministic media stages, then spend review effort on complete high-impact stories, accurate subtitles, titles, covers, and an explicitly approved Bilibili release."

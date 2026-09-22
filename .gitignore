@@ -1,0 +1,47 @@
+# Python environments and caches
+.python312/
+.venv/
+.venv*/
+**/__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Credentials and local configuration
+.env
+.env.*
+!.env.example
+cookies.json
+cookie.json
+cookies-*.json
+cookie-*.json
+*.biliup-cookie.json
+
+# Runtime data and generated media
+录播/*
+!录播/.gitkeep
+workflow-projects/*
+!workflow-projects/.gitkeep
+models/*
+!models/.gitkeep
+logs/*
+!logs/.gitkeep
+tools/ffmpeg/*
+!tools/ffmpeg/.gitkeep
+automation-runs/
+artifacts/
+releases/
+results*/
+target-song-cutter/work/
+target-song-cutter/monitor/*.pid
+target-song-cutter/monitor/tmp.*
+
+# Local state
+*.log
+*.lock
+workflow-app.instance
+workflow-app.instance.*
+.DS_Store
+Thumbs.db
+

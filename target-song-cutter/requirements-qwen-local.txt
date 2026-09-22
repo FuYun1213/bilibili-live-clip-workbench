@@ -1,0 +1,5 @@
+# Install into a dedicated Python 3.12 environment created with
+# --system-site-packages so the existing CUDA PyTorch/FunASR runtime is reused.
+qwen-asr==0.0.6
+transformers==4.57.6
+accelerate==1.12.0
